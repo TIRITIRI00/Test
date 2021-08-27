@@ -15,7 +15,7 @@ import com.scit.shop.vo.Wishlist;
 
 
 
-@Controller //hihi
+@Controller
 public class BookController {
 
 	@Autowired
